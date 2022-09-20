@@ -1,4 +1,4 @@
-## SPACEX DASH APP
+## SpaceX Launch Records Dashboard App
 
 # Import required libraries
 import pandas as pd
